@@ -132,5 +132,5 @@ document.addEventListener("DOMContentLoaded", function() {
         calculator.updateDisplay()
     })
 
-    hajar;
+    
 });
